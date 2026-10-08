@@ -2,4 +2,4 @@
 
 read -p "quel est ton prenom:" NOM
 
-echo "Hello "$NOM
+echo "Hello $NOM"
